@@ -3,7 +3,7 @@
 
 ## 🎓 Sertifikalarım
 
-| 🏅 Sertifika | 🏫 Kurum / Platform | 📅 Tarih |
+| 🏅 Sertifika |
 |--------------|-------------------|----------|
 | ![PDF](file:///C:/Users/emin/Downloads/HTML5_ile_Web_Geliştirme_Sertifika.pdf) [HTML5 ile Web Geliştirme](https://sertifika-linki.com) 
 | ![PDF](file:///C:/Users/emin/Downloads/Girişimcilikte_Sunum_Teknikleri_ve_İletişim_Yönetimi_Sertifika.pdf) [Girişimcilikte Sunum Teknikleri ve İletişim Yönetimi](https://sertifika-linki.com) 
@@ -13,6 +13,8 @@
 | ![PDF](file:///C:/Users/emin/Downloads/İşletim_Sistemlerine_Giriş_Sertifika.pdf) [İşletim Sistemlerine Giriş](https://sertifika-linki.com) 
 | ![PDF](file:///C:/Users/emin/Downloads/Girişimcilik_Temelleri_Sertifika.pdf) [Girişimcilik Temelleri](https://sertifika-linki.com) 
 | ![PDF](file:///C:/Users/emin/Downloads/Sosyal_Medya_Uzmanlığına_Giriş_Sertifika.pdf) [Sosyal Medya Uzmanlığına Giriş](https://sertifika-linki.com) 
+
+
 <!-- Animasyonlu Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&pause=500&color=00FFFF&center=true&vCenter=true&width=1200&lines=Fakat+Terazi+Eşit+Değil;Bize+Göstermedi+Hayat+Hiç+Respect" alt="Typing SVG">
