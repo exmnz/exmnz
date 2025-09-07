@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
 <h3 align="center">Yönetim Bilişim Sistemleri Öğrencisi</h3>
 
+<!-- Animasyonlu Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Merhaba!+Ben+Emin,+kodlamayı+seviyorum;Öğrenmeye+açığım;Yeni+projeler+üretmeyi+seviyorum" alt="Typing SVG">
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/exmnz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="exmnz" height="30" width="40" /></a>
