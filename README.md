@@ -3,9 +3,8 @@
 
 <!-- Animasyonlu Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=5000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=Fakat+Terazi+Eşit+Değil+Bize+Göstermedi+Hayat+Hiç+Respect" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&pause=500&color=00FFFF&center=true&vCenter=true&width=1200&lines=Fakat+Terazi+Eşit+Değil;Bize+Göstermedi+Hayat+Hiç+Respect" alt="Typing SVG">
 </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/exmnz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="exmnz" height="30" width="40" /></a>
