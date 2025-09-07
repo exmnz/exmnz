@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
 <h3 align="center">No bugs, just features 😎</h3>
 
-
-<p align="center">
-  <img src="https://images.hdqwalls.com/wallpapers/square-glitch-chaos-banner-abstract-4k-im.jpg" width="100%" alt="background"/>
-</p>
-
 <!-- Animasyonlu Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&pause=500&color=00FFFF&center=true&vCenter=true&width=1200&lines=Fakat+Terazi+Eşit+Değil;Bize+Göstermedi+Hayat+Hiç+Respect" alt="Typing SVG">
