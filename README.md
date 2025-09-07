@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://linkresmi.com/resim.png" width="100%" alt="background"/>
+  <img src="https://images.hdqwalls.com/wallpapers/square-glitch-chaos-banner-abstract-4k-im.jpg" width="100%" alt="background"/>
 </p>
 
 <!-- Animasyonlu Banner -->
