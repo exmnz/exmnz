@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
 <h3 align="center">No bugs, just features 😎</h3>
 
+
+## 📜 Sertifikalarım
+
+![Python]![Sosyal_Medya_Uzmanlığına_Giriş_Sertifika (1)](https://github.com/user-attachments/assets/05d0d266-4cd5-4b10-9b2c-404a2e7ff1b7)
+
+![JavaScript](JavaScript.png)
+![VeriAnalizi](VeriAnalizi.png)
+![WebGelistirme](WebGelistirme.png)
+![YapayZeka](YapayZeka.png)
+![SQL](SQL.png)
+![SiberGuvenlik](SiberGuvenlik.png)
+![MobilUygulama](MobilUygulama.png)
+
+
+
+
 <!-- Animasyonlu Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&pause=500&color=00FFFF&center=true&vCenter=true&width=1200&lines=Fakat+Terazi+Eşit+Değil;Bize+Göstermedi+Hayat+Hiç+Respect" alt="Typing SVG">
