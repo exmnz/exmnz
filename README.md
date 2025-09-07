@@ -11,4 +11,4 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FnbTloM3JqcTdzMXo4OGhyMHR0djc0eWZwdWlmM3U4anhkM3kyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FnbTloM3JqcTdzMXo4OGhyMHR0djc0eWZwdWlmM3U4anhkM3kyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"> alt="coding" width="100" height="100" align="right"
