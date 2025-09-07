@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
-<h3 align="center">Yönetim Bilişim Sistemleri Öğrencisi</h3>
+<h3 align="center">No bugs, just features 😎</h3>
 
 <!-- Animasyonlu Banner -->
 <p align="center">
