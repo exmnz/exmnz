@@ -21,6 +21,3 @@
 </p>
 
 
-<p align="center">
-  <img src="snake-game.gif" width="400" alt="Snake Game">
-</p>
