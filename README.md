@@ -19,3 +19,8 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN5NGF5bzE0d2hlcHlrbWJvcWtzZTBobnF2Z2lidzg1ZXAzbmN3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300" alt="Coding GIF">
 </p>
+
+
+<p align="center">
+  <img src="snake-game.gif" width="400" alt="Snake Game">
+</p>
