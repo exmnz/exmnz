@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Emin</h1>
-<h3 align="center">Frontend, Veri tabanı, Excel.</</h3>
+<h3 align="center">\ꜰʀᴏɴᴛᴇɴᴅ, ᴅᴀᴛᴀ ʙᴀꜱᴇ, ᴇxᴄᴇʟ/ ɪ ᴅᴏ ᴅᴇᴠᴇʟᴏᴘ</</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
