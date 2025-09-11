@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Emin</h1>
-<h3 align="center">No bugs, just features 😎</</h3>
+<h3 align="center">Genelde frontend ve veri tabanı ile uğraşırım</</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
